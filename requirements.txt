@@ -1,0 +1,6 @@
+streamlit>=1.37
+plotly
+pandas
+requests
+nba_api
+espn-api
